@@ -1,8 +1,8 @@
 **LGM Task-2:**
 Creating a Registration form
 
-This task is to determine your understanding of HTML,CSS and ReactJS skills along.
 
+To assess your understanding of html,java & css
 **Setup:-**</br>
 I have used the following Environment to implement the code: </br>
 IDE: Microsoft Visual Code Studio
