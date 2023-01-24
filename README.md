@@ -1,4 +1,4 @@
-**LGM Task-2**
+**LGM Task-2:**
 Creating a Registration form
 
 This task is to determine your understanding of HTML,CSS and ReactJS skills along.
